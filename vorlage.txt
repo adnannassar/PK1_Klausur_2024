@@ -1,0 +1,6 @@
+Sehr geehrter ${anrede} ${nachname},
+
+bitte begleichen Sie den offenen Betrag von ${betrag} bis zum ${frist}.
+
+Mit freundlichen Grüßen
+Ihr Elektrobetrieb Meier
