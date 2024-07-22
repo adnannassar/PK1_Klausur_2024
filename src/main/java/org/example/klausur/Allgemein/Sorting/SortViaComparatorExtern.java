@@ -1,8 +1,7 @@
-package org.example.klausur.Sorting;
+package org.example.klausur.Allgemein.Sorting;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.LinkedList;
 
 public class SortViaComparatorExtern {

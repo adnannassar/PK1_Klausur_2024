@@ -1,4 +1,4 @@
-package org.example.klausur.Sorting;
+package org.example.klausur.Allgemein.Sorting;
 
 import java.util.Comparator;
 

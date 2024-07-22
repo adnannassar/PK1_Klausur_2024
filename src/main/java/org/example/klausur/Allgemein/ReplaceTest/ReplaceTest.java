@@ -1,4 +1,4 @@
-package org.example.klausur.ReplaceTest;
+package org.example.klausur.Allgemein.ReplaceTest;
 
 public class ReplaceTest {
     public static void main(String[] args) {

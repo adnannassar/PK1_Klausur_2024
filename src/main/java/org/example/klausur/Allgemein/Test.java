@@ -1,4 +1,4 @@
-package org.example.klausur.AllgemeinTest;
+package org.example.klausur.Allgemein;
 
 import java.util.Random;
 
